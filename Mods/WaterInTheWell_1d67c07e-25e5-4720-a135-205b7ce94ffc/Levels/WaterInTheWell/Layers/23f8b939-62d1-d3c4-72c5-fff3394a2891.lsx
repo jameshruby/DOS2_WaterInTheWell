@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<save>
+    <header version="2" />
+    <version major="3" minor="6" revision="3" build="1" />
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="ID" value="23f8b939-62d1-d3c4-72c5-fff3394a2891" type="31" />
+            <attribute id="LayerColor" value="0" type="4" />
+            <attribute id="Name" value="RC_BF_TheBears_Scripting" type="23" />
+        </node>
+    </region>
+</save>

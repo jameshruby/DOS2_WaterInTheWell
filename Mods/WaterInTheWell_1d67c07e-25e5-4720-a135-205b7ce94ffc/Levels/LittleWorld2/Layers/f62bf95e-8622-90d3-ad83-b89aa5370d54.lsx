@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<save>
+    <header version="2" />
+    <version major="3" minor="6" revision="3" build="1" />
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="ID" value="f62bf95e-8622-90d3-ad83-b89aa5370d54" type="31" />
+            <attribute id="LayerColor" value="0" type="4" />
+            <attribute id="Name" value="RuinedShack" type="23" />
+        </node>
+    </region>
+</save>

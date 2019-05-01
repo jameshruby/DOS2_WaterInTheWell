@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<save>
+    <header version="2" time="1501582198" />
+    <version major="3" minor="1" revision="2" build="19" />
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="ID" value="d3196d0e-016e-b21e-62c4-bca6c7c6f04c" type="31" />
+            <attribute id="Name" value="New_Tomb_Level" type="23" />
+        </node>
+    </region>
+</save>

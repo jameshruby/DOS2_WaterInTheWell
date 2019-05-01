@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<save>
+    <header version="2" />
+    <version major="3" minor="6" revision="3" build="1" />
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="ID" value="4729415c-6ecd-e28a-0fc5-c04898c6cba0" type="31" />
+            <attribute id="LayerColor" value="0" type="4" />
+            <attribute id="Name" value="RC_BI_DemonVault_1" type="23" />
+        </node>
+    </region>
+</save>

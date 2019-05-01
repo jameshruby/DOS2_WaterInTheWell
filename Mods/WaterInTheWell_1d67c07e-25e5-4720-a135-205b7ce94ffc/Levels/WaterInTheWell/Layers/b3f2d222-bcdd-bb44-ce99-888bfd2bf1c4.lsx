@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<save>
+    <header version="2" />
+    <version major="3" minor="6" revision="3" build="1" />
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="ID" value="b3f2d222-bcdd-bb44-ce99-888bfd2bf1c4" type="31" />
+            <attribute id="LayerColor" value="0" type="4" />
+            <attribute id="Name" value="RC_DW_WreckerCave_Scripting" type="23" />
+        </node>
+    </region>
+</save>

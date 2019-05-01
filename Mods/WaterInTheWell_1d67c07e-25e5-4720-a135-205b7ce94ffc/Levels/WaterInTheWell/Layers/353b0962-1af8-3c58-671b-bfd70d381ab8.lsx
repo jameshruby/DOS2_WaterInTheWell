@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<save>
+    <header version="2" />
+    <version major="3" minor="6" revision="3" build="1" />
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="ID" value="353b0962-1af8-3c58-671b-bfd70d381ab8" type="31" />
+            <attribute id="LayerColor" value="0" type="4" />
+            <attribute id="Name" value="RC_DF_PaladinEmbassy" type="23" />
+        </node>
+    </region>
+</save>

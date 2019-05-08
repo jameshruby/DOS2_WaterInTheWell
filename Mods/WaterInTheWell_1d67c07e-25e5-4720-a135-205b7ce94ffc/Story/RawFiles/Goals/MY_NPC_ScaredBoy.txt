@@ -1,0 +1,50 @@
+Version 1
+SubGoalCombiner SGC_AND
+INITSECTION
+DB_ScaredBoy(S_Scared_Boy_c069960c-94ba-4992-a0d6-56c8faf7992f);
+DB_Dialogs(S_Scared_Boy_c069960c-94ba-4992-a0d6-56c8faf7992f, "ScaredBoy");
+//DB_FlagSet(0);
+DB_ScaredBoyBarks(0, "Hey, d-d-d don't come close! I can see you.");
+DB_ScaredBoyBarks(1, "I-I-I I'm s-s-scared");
+
+KBSECTION
+PROC
+ProcShowScaredBoyBarkMessages((GUIDSTRING)_Character)
+AND
+Random(2, _RandomIdex)
+AND
+DB_ScaredBoyBarks(_RandomIdex, _MessageText)
+THEN
+DisplayText(_Character, _MessageText);
+
+IF
+DB_ScaredBoy(_ScaredBoy)
+THEN
+ProcShowScaredBoyBarkMessages(_ScaredBoy);
+
+IF
+DialogEnded("ScaredBoy", _Id)
+AND
+DB_IsPlayer((CHARACTERGUID)_Player)
+AND
+//Flag not set
+ObjectGetFlag(_Player, "NPC_ScaredBoy_WantsToKillUs", 0)
+THEN
+CharacterAddSkill((CHARACTERGUID)_Player, "Shout_SpiritVision");
+
+IF
+DialogEnded("ScaredBoy", _Id)
+AND
+DB_ScaredBoy(_ScaredBoy)
+AND
+DB_IsPlayer((CHARACTERGUID)_Player)
+AND
+//Flag set
+ObjectGetFlag(_Player, "NPC_ScaredBoy_WantsToKillUs", 1)
+THEN
+Proc_CharacterSetTemporaryHostileRelation((CHARACTERGUID)_Player,(CHARACTERGUID)_ScaredBoy);
+//TODO How we get the spirit vision now (if we killed him before) ?
+EXITSECTION
+
+ENDEXITSECTION
+ParentTargetEdge "__Start"

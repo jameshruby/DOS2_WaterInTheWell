@@ -1,0 +1,14 @@
+Version 1
+SubGoalCombiner SGC_AND
+INITSECTION
+//DB_IsPlayer(S_GLO_CharacterCreationDummy_002_361dacdc-4135-4d3f-a9a2-3cad46ca246a);
+//DB_QuestDef_State("MyQuest", "QuestReceived", 1);
+KBSECTION
+IF
+ObjectFlagSet("QuestUpdate_Marbless_QuestReceived", _speaker, _)
+THEN
+ItemTemplateAddTo("WPN_Tool_Pitchfork_2H_A be051a81-d08d-4fea-9fa4-f1c32049c13d", _speaker, 1);
+EXITSECTION
+
+ENDEXITSECTION
+ParentTargetEdge "__Start"

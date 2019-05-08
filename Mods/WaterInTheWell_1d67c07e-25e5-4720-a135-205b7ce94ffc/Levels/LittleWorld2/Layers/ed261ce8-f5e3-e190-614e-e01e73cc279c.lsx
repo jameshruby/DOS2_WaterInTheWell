@@ -6,7 +6,7 @@
         <node id="root">
             <attribute id="ID" value="ed261ce8-f5e3-e190-614e-e01e73cc279c" type="31" />
             <attribute id="LayerColor" value="0" type="4" />
-            <attribute id="Name" value="New Layer 2" type="23" />
+            <attribute id="Name" value="CemetaryHidden" type="23" />
         </node>
     </region>
 </save>

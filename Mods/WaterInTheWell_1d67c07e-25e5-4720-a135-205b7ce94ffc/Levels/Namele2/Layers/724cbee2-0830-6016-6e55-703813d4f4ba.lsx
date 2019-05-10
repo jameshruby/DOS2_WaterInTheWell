@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<save>
+    <header version="2" />
+    <version major="3" minor="6" revision="3" build="1" />
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="ID" value="724cbee2-0830-6016-6e55-703813d4f4ba" type="31" />
+            <attribute id="LayerColor" value="0" type="4" />
+            <attribute id="Name" value="ArenaOfTheOne" type="23" />
+        </node>
+    </region>
+</save>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<save>
+    <header version="2" />
+    <version major="3" minor="6" revision="3" build="1" />
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="ID" value="e6aeae86-73cd-3551-32ca-20acc8d4d8fb" type="31" />
+            <attribute id="LayerColor" value="0" type="4" />
+            <attribute id="Name" value="LV_LowerDecks" type="23" />
+        </node>
+    </region>
+</save>

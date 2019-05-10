@@ -1,7 +1,7 @@
 Version 1
 SubGoalCombiner SGC_AND
 INITSECTION
-DB_FlowerCupEmpty((ITEMGUID)ITEMGUID_CON_Flower_Cup_A_Empty_002_0d2e8496-26d5-45f6-bca4-0cca14167842); 
+DB_FlowerCupEmpty((ITEMGUID)ITEMGUID_CON_Flower_Cup_A_Empty_000_d5b4259f-aa65-4a6c-91cb-bbd0a418573e); 
 //DB_FlowerCupFull((ITEMGUID)ITEMGUID_CON_Flower_Cup_A_Water_003_7b2dfe57-a645-4822-a324-236dd5f75fc8); 
 DB_Kitty(KittyKatie_Ghost_9eadd18f-e2b2-41e0-bb9e-5bc9041316ec);
 KBSECTION

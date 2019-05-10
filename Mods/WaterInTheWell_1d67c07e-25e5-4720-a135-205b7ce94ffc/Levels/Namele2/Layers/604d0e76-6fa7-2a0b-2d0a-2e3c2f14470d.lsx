@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<save>
+    <header version="2" />
+    <version major="3" minor="6" revision="3" build="1" />
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="ID" value="604d0e76-6fa7-2a0b-2d0a-2e3c2f14470d" type="31" />
+            <attribute id="LayerColor" value="0" type="4" />
+            <attribute id="Name" value="Imp Temple" type="23" />
+        </node>
+    </region>
+</save>

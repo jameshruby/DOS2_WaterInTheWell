@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<save>
+    <header version="2" />
+    <version major="3" minor="6" revision="3" build="1" />
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="ID" value="652c48bd-c2e9-308b-2f44-5c1cdd4bf664" type="31" />
+            <attribute id="LayerColor" value="0" type="4" />
+            <attribute id="Name" value="Orc Temple" type="23" />
+        </node>
+    </region>
+</save>

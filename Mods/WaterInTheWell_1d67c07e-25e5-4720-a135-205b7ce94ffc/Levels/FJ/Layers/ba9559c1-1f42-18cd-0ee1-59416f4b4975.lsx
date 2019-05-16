@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<save>
+    <header version="2" />
+    <version major="3" minor="6" revision="3" build="1" />
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="ID" value="ba9559c1-1f42-18cd-0ee1-59416f4b4975" type="31" />
+            <attribute id="LayerColor" value="0" type="4" />
+            <attribute id="Name" value="Autosaves" type="23" />
+        </node>
+    </region>
+</save>

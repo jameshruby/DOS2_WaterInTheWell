@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<save>
+    <header version="2" />
+    <version major="3" minor="6" revision="3" build="1" />
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="ID" value="b55beefd-0ed4-40b9-4bfa-30371d9982a3" type="31" />
+            <attribute id="LayerColor" value="0" type="4" />
+            <attribute id="Name" value="FTJ_Kennels_KnilesRoom" type="23" />
+        </node>
+    </region>
+</save>

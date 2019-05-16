@@ -1,0 +1,13 @@
+Version 1
+SubGoalCombiner SGC_AND
+INITSECTION
+DB_Dialogs(ITEMGUID_CEM_Tombstone_H_Dynamic_000_8ce72b2e-0b35-4f7c-8b7c-2958fbddeebb,"TombDialogue");
+KBSECTION
+IF
+CharacterUsedItem(_player,ITEMGUID_CEM_Tombstone_H_Dynamic_000_8ce72b2e-0b35-4f7c-8b7c-2958fbddeebb)
+THEN
+Proc_StartDialog(1, "TombDialogue", _Player);//ITEMGUID_BLD_Humans_Tomb_Lid_A_000_9abef75b-fbbd-4647-8da1-b6e074bdbd51
+EXITSECTION
+
+ENDEXITSECTION
+ParentTargetEdge "__Start"

@@ -1,0 +1,13 @@
+Version 1
+SubGoalCombiner SGC_AND
+INITSECTION
+DB_Dialogs(CHARACTERGUID_S_Regimir_Antagonist_a27fe007-4abb-4885-b9a7-fcad88f48d3d, "RegimirDialogue");
+KBSECTION
+IF
+DialogEnded("RegimirDialogue",_)
+THEN
+SetFaction(CHARACTERGUID_S_Regimir_Antagonist_a27fe007-4abb-4885-b9a7-fcad88f48d3d, "Evil NPC");
+EXITSECTION
+
+ENDEXITSECTION
+ParentTargetEdge "__Start"

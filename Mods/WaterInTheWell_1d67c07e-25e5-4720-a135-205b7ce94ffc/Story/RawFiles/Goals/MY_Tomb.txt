@@ -7,10 +7,13 @@ DB_FlowerCupEmpty((ITEMGUID)ITEMGUID_CON_Flower_Cup_A_Empty_000_d5b4259f-aa65-4a
 //DB_FlowerCupFull((ITEMGUID)ITEMGUID_CON_Flower_Cup_A_Water_003_7b2dfe57-a645-4822-a324-236dd5f75fc8); 
 DB_Kitty(KittyKatie_Ghost_9eadd18f-e2b2-41e0-bb9e-5bc9041316ec);
 KBSECTION
+//Currently main entry point
 IF
 DB_IsPlayer(_Player)
 THEN
 ItemTemplateAddTo("Flower_Cup_A_Water_425c021a-0ddd-44e9-979f-5c90afb060c0", _Player, 1);
+CharacterLevelUpTo(_Player, 10);
+ItemTemplateAddTo("Scroll_Skill_Source_Resurrect_60180909-ee47-4d1c-b81c-e43bd8fdce1e", _Player, 1);
 
 IF
 CharacterUsedItem(_Player, ITEMGUID_CEM_Tombstone_H_Dynamic_000_8ce72b2e-0b35-4f7c-8b7c-2958fbddeebb)

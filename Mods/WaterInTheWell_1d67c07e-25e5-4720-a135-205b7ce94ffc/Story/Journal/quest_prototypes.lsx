@@ -7,7 +7,7 @@
             <children>
                 <node id="Quest">
                     <attribute id="CategoryID" value="WaterInTheWell_Main" type="22" />
-                    <attribute id="MainQuest" value="0" type="19" />
+                    <attribute id="MainQuest" value="1" type="19" />
                     <attribute id="QuestBroadcastLevel" value="0" type="1" />
                     <attribute id="QuestID" value="ElsesTomb" type="22" />
                     <attribute id="QuestTitle" value="Visit Else&apos;s Tomb" handle="ls::TranslatedStringRepository::s_HandleUnknown" type="28" />
@@ -17,8 +17,8 @@
                         <node id="QuestState">
                             <attribute id="Achievement" value="" type="22" />
                             <attribute id="Act" value="0" type="4" />
-                            <attribute id="Description" value="" handle="ls::TranslatedStringRepository::s_HandleUnknown" type="28" />
-                            <attribute id="DevComment" value="" type="22" />
+                            <attribute id="Description" value="I think I need to follow the ghost." handle="ls::TranslatedStringRepository::s_HandleUnknown" type="28" />
+                            <attribute id="DevComment" value="2 NEED (SOMETHING ISNT RIGHT)" type="22" />
                             <attribute id="Gain" value="0" type="4" />
                             <attribute id="Mystery" value="" type="22" />
                             <attribute id="MysteryAction" value="0" type="1" />
@@ -28,7 +28,87 @@
                             <attribute id="QuestRewardLevel" value="0" type="4" />
                             <attribute id="ReputationGain" value="0" type="4" />
                             <attribute id="StatTriggerGUID" value="" type="22" />
-                            <attribute id="Status" value="NewQuestState_000" type="22" />
+                            <attribute id="Status" value="SomebodyIsAtTheDoor" type="22" />
+                        </node>
+                        <node id="QuestState">
+                            <attribute id="Achievement" value="" type="22" />
+                            <attribute id="Act" value="0" type="4" />
+                            <attribute id="Description" value="Else is back, at least for now.." handle="ls::TranslatedStringRepository::s_HandleUnknown" type="28" />
+                            <attribute id="DevComment" value="5) FIND (MEETING THE GODDESS)" type="22" />
+                            <attribute id="Gain" value="0" type="4" />
+                            <attribute id="Mystery" value="" type="22" />
+                            <attribute id="MysteryAction" value="0" type="1" />
+                            <attribute id="MysteryDescription" value="" handle="ls::TranslatedStringRepository::s_HandleUnknown" type="28" />
+                            <attribute id="Objective" value="" type="22" />
+                            <attribute id="QuestRewardCount" value="0" type="4" />
+                            <attribute id="QuestRewardLevel" value="0" type="4" />
+                            <attribute id="ReputationGain" value="0" type="4" />
+                            <attribute id="StatTriggerGUID" value="" type="22" />
+                            <attribute id="Status" value="ElseRessurected" type="22" />
+                        </node>
+                        <node id="QuestState">
+                            <attribute id="Achievement" value="" type="22" />
+                            <attribute id="Act" value="0" type="4" />
+                            <attribute id="Description" value="We need to fight a Grave Man." handle="ls::TranslatedStringRepository::s_HandleUnknown" type="28" />
+                            <attribute id="DevComment" value="6) TAKE (PAYING THE PRICE) should be something devastating" type="22" />
+                            <attribute id="Gain" value="0" type="4" />
+                            <attribute id="Mystery" value="" type="22" />
+                            <attribute id="MysteryAction" value="0" type="1" />
+                            <attribute id="MysteryDescription" value="" handle="ls::TranslatedStringRepository::s_HandleUnknown" type="28" />
+                            <attribute id="Objective" value="" type="22" />
+                            <attribute id="QuestRewardCount" value="0" type="4" />
+                            <attribute id="QuestRewardLevel" value="0" type="4" />
+                            <attribute id="ReputationGain" value="0" type="4" />
+                            <attribute id="StatTriggerGUID" value="" type="22" />
+                            <attribute id="Status" value="FightWithGraveMan" type="22" />
+                        </node>
+                        <node id="QuestState">
+                            <attribute id="Achievement" value="" type="22" />
+                            <attribute id="Act" value="0" type="4" />
+                            <attribute id="Description" value="Else is dead. Now for good. I need to burry her." handle="ls::TranslatedStringRepository::s_HandleUnknown" type="28" />
+                            <attribute id="DevComment" value="7) RETURN (BRINGING IT HOME)" type="22" />
+                            <attribute id="Gain" value="0" type="4" />
+                            <attribute id="Mystery" value="" type="22" />
+                            <attribute id="MysteryAction" value="0" type="1" />
+                            <attribute id="MysteryDescription" value="" handle="ls::TranslatedStringRepository::s_HandleUnknown" type="28" />
+                            <attribute id="Objective" value="" type="22" />
+                            <attribute id="QuestRewardCount" value="0" type="4" />
+                            <attribute id="QuestRewardLevel" value="0" type="4" />
+                            <attribute id="ReputationGain" value="0" type="4" />
+                            <attribute id="StatTriggerGUID" value="" type="22" />
+                            <attribute id="Status" value="BurryElse" type="22" />
+                        </node>
+                        <node id="QuestState">
+                            <attribute id="Achievement" value="" type="22" />
+                            <attribute id="Act" value="0" type="4" />
+                            <attribute id="Description" value="It seems, that Else is not entirely dead. Her spirit is on this world, which means, that something is tying her up to our mortal coils.I need to find her body." handle="ls::TranslatedStringRepository::s_HandleUnknown" type="28" />
+                            <attribute id="DevComment" value="4 SEARCH" type="22" />
+                            <attribute id="Gain" value="0" type="4" />
+                            <attribute id="Mystery" value="" type="22" />
+                            <attribute id="MysteryAction" value="0" type="1" />
+                            <attribute id="MysteryDescription" value="" handle="ls::TranslatedStringRepository::s_HandleUnknown" type="28" />
+                            <attribute id="Objective" value="" type="22" />
+                            <attribute id="QuestRewardCount" value="0" type="4" />
+                            <attribute id="QuestRewardLevel" value="0" type="4" />
+                            <attribute id="ReputationGain" value="0" type="4" />
+                            <attribute id="StatTriggerGUID" value="" type="22" />
+                            <attribute id="Status" value="FindElsesBody" type="22" />
+                        </node>
+                        <node id="QuestState">
+                            <attribute id="Achievement" value="8" type="22" />
+                            <attribute id="Act" value="0" type="4" />
+                            <attribute id="Description" value="We Returned" handle="ls::TranslatedStringRepository::s_HandleUnknown" type="28" />
+                            <attribute id="DevComment" value="" type="22" />
+                            <attribute id="Gain" value="-1" type="4" />
+                            <attribute id="Mystery" value="" type="22" />
+                            <attribute id="MysteryAction" value="0" type="1" />
+                            <attribute id="MysteryDescription" value="" handle="ls::TranslatedStringRepository::s_HandleUnknown" type="28" />
+                            <attribute id="Objective" value="" type="22" />
+                            <attribute id="QuestRewardCount" value="0" type="4" />
+                            <attribute id="QuestRewardLevel" value="0" type="4" />
+                            <attribute id="ReputationGain" value="0" type="4" />
+                            <attribute id="StatTriggerGUID" value="" type="22" />
+                            <attribute id="Status" value="WeReturned" type="22" />
                         </node>
                     </children>
                 </node>

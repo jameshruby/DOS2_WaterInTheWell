@@ -3,13 +3,11 @@ SubGoalCombiner SGC_AND
 INITSECTION
 //DB_IsPlayer(S_GLO_CharacterCreationDummy_002_361dacdc-4135-4d3f-a9a2-3cad46ca246a);
 //DB_QuestDef_State("MyQuest", "QuestReceived", 1);
-DB_WaypointInfo(ITEMGUID_BLD_Humans_Statue_Waypoint_Shrine_A_Interactable_000_b2d62ba6-0e02-4dce-a5cb-e8759d22b6e4,TRIGGERGUID_S_SecretWelTeleportTrigger_3a3366d2-5106-4d98-8b6c-a4c952bed6be,"WAYP_FTJ_ShrineToTheSeven");
+DB_WaypointInfo(ITEMGUID_BLD_Humans_Statue_Waypoint_Shrine_A_Interactable_000_b2d62ba6-0e02-4dce-a5cb-e8759d22b6e4, TRIGGERGUID_S_SecretWelTeleportTrigger_3a3366d2-5106-4d98-8b6c-a4c952bed6be, "WAYP_FTJ_ShrineToTheSeven");
+DB_WaypointInfo(ITEMGUID_BLD_Humans_Statue_Waypoint_Shrine_A_Interactable_000_b2d62ba6-0e02-4dce-a5cb-e8759d22b6e4, TRIGGERGUID_TeleportTrigger_Mansion_864e9c5a-1b00-4101-b6a9-617a6119f17f, "WAYP_FTJ_SW_Armory");
 DB_WaypointBlockUI(ITEMGUID_BLD_Humans_Statue_Waypoint_Shrine_A_Interactable_000_b2d62ba6-0e02-4dce-a5cb-e8759d22b6e4);
 KBSECTION
-IF
-ObjectFlagSet("QuestUpdate_Marbless_QuestReceived", _speaker, _)
-THEN
-ItemTemplateAddTo("WPN_Tool_Pitchfork_2H_A be051a81-d08d-4fea-9fa4-f1c32049c13d", _speaker, 1);
+
 EXITSECTION
 
 ENDEXITSECTION

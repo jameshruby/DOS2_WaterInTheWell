@@ -21,6 +21,7 @@ SetOnStage(Animals_Cat_Skeleton_A_000_71fd40b4-bdf5-40d1-86c1-5a2f97e3369d, 1);
 CharacterAppearAt(Animals_Cat_Skeleton_A_000_71fd40b4-bdf5-40d1-86c1-5a2f97e3369d, MY_SkeletonCatPos_c6937e33-2c31-4d39-b7e3-d57c5d69b999, 1, "");
 
 
+
 //ProcStartAmbush(_player);
 
 //PROC

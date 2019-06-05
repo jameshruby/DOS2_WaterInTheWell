@@ -1,9 +1,7 @@
 Version 1
 SubGoalCombiner SGC_AND
 INITSECTION
-DB_Dialogs(KittyKatie_Ghost_9eadd18f-e2b2-41e0-bb9e-5bc9041316ec, "KittyKatie");
-//add items that could be used to finish the quest.
-DB_WaterItems((ITEMGUID)MY_KittyKatie_WaterBarel_fabe0dad-9885-4750-85ac-84e63ffebd60);   
+
 KBSECTION
 //IF
 //CharacterUsedSkill(_Player,"Shout_SpiritVision",_,_)
@@ -13,28 +11,28 @@ KBSECTION
 //SetVisible(KittyKatie_Ghost_9eadd18f-e2b2-41e0-bb9e-5bc9041316ec, 1); 
 
 
-IF
-ItemAddedToCharacter(_item, _player)
-AND
-DB_WaterItems(_item)
-THEN
-//ObjectSetFlag(_player, "NPC_CharlieKid_HasMarbleItem");
-ObjectSetDialogFlag(_player, "NPC_CharlieKid_HasMarbleItem", 0);
+// IF
+// ItemAddedToCharacter(_item, _player)
+// AND
+// DB_WaterItems(_item)
+// THEN
+// //ObjectSetFlag(_player, "NPC_CharlieKid_HasMarbleItem");
+// ObjectSetDialogFlag(_player, "NPC_CharlieKid_HasMarbleItem", 0);
 
-IF
-ItemRemovedFromCharacter(_item, _player)
-AND
-DB_WaterItems(_item)
-THEN
-//ObjectClearFlag(_player, "crypt_mummy_wrappings");
-ObjectClearDialogFlag(_player, "NPC_CharlieKid_HasMarbleItem", 0);
+// IF
+// ItemRemovedFromCharacter(_item, _player)
+// AND
+// DB_WaterItems(_item)
+// THEN
+// //ObjectClearFlag(_player, "crypt_mummy_wrappings");
+// ObjectClearDialogFlag(_player, "NPC_CharlieKid_HasMarbleItem", 0);
 
-IF
-ObjectFlagSet("QuestUpdate_Marbless_QuestDone", _speaker, _)
-AND
-DB_WaterItems(_item)
-THEN
-ItemToInventory(_item, KittyKatie_Ghost_9eadd18f-e2b2-41e0-bb9e-5bc9041316ec);
+// IF
+// ObjectFlagSet("QuestUpdate_Marbless_QuestDone", _speaker, _)
+// AND
+// DB_WaterItems(_item)
+// THEN
+// ItemToInventory(_item, KittyKatie_Ghost_9eadd18f-e2b2-41e0-bb9e-5bc9041316ec);
 //ItemTemplateAddTo("WPN_Tool_Pitchfork_2H_A be051a81-d08d-4fea-9fa4-f1c32049c13d", _speaker, 1);
 EXITSECTION
 

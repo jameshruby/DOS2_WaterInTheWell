@@ -10,7 +10,7 @@
                     <attribute id="MainQuest" value="1" type="19" />
                     <attribute id="QuestBroadcastLevel" value="0" type="1" />
                     <attribute id="QuestID" value="ElsesTomb" type="22" />
-                    <attribute id="QuestTitle" value="Visit Else&apos;s Tomb" handle="ls::TranslatedStringRepository::s_HandleUnknown" type="28" />
+                    <attribute id="QuestTitle" value="Just to say goodbye" handle="ls::TranslatedStringRepository::s_HandleUnknown" type="28" />
                     <attribute id="Shareable" value="1" type="19" />
                     <attribute id="SortingPriority" value="0" type="4" />
                     <children>
@@ -109,6 +109,38 @@
                             <attribute id="ReputationGain" value="0" type="4" />
                             <attribute id="StatTriggerGUID" value="" type="22" />
                             <attribute id="Status" value="WeReturned" type="22" />
+                        </node>
+                        <node id="QuestState">
+                            <attribute id="Achievement" value="" type="22" />
+                            <attribute id="Act" value="0" type="4" />
+                            <attribute id="Description" value="I should investigate the sound outside..." handle="ls::TranslatedStringRepository::s_HandleUnknown" type="28" />
+                            <attribute id="DevComment" value="" type="22" />
+                            <attribute id="Gain" value="0" type="4" />
+                            <attribute id="Mystery" value="" type="22" />
+                            <attribute id="MysteryAction" value="0" type="1" />
+                            <attribute id="MysteryDescription" value="" handle="ls::TranslatedStringRepository::s_HandleUnknown" type="28" />
+                            <attribute id="Objective" value="" type="22" />
+                            <attribute id="QuestRewardCount" value="0" type="4" />
+                            <attribute id="QuestRewardLevel" value="0" type="4" />
+                            <attribute id="ReputationGain" value="0" type="4" />
+                            <attribute id="StatTriggerGUID" value="" type="22" />
+                            <attribute id="Status" value="InvestigateDoors" type="22" />
+                        </node>
+                        <node id="QuestState">
+                            <attribute id="Achievement" value="" type="22" />
+                            <attribute id="Act" value="0" type="4" />
+                            <attribute id="Description" value="I found a cross that I once made for Elses tomb, but what its doing here ? I should return it back." handle="ls::TranslatedStringRepository::s_HandleUnknown" type="28" />
+                            <attribute id="DevComment" value="" type="22" />
+                            <attribute id="Gain" value="0" type="4" />
+                            <attribute id="Mystery" value="" type="22" />
+                            <attribute id="MysteryAction" value="0" type="1" />
+                            <attribute id="MysteryDescription" value="" handle="ls::TranslatedStringRepository::s_HandleUnknown" type="28" />
+                            <attribute id="Objective" value="" type="22" />
+                            <attribute id="QuestRewardCount" value="0" type="4" />
+                            <attribute id="QuestRewardLevel" value="0" type="4" />
+                            <attribute id="ReputationGain" value="0" type="4" />
+                            <attribute id="StatTriggerGUID" value="" type="22" />
+                            <attribute id="Status" value="FoundASignificantItem" type="22" />
                         </node>
                     </children>
                 </node>

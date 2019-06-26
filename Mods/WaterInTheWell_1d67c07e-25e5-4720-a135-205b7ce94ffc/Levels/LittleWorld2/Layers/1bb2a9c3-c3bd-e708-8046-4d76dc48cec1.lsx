@@ -6,7 +6,7 @@
         <node id="root">
             <attribute id="ID" value="1bb2a9c3-c3bd-e708-8046-4d76dc48cec1" type="31" />
             <attribute id="LayerColor" value="0" type="4" />
-            <attribute id="Name" value="New Layer 2" type="23" />
+            <attribute id="Name" value="CEME_SMALL" type="23" />
         </node>
     </region>
 </save>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<save>
+    <header version="2" />
+    <version major="3" minor="6" revision="3" build="1" />
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="ID" value="ed261ce8-f5e3-e190-614e-e01e73cc279c" type="31" />
+            <attribute id="LayerColor" value="0" type="4" />
+            <attribute id="Name" value="CemetaryHidden" type="23" />
+        </node>
+    </region>
+</save>

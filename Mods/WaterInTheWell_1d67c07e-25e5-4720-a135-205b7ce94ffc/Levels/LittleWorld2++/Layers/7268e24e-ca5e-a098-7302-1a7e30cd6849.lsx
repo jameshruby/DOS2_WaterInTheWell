@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<save>
+    <header version="2" />
+    <version major="3" minor="6" revision="3" build="1" />
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="ID" value="7268e24e-ca5e-a098-7302-1a7e30cd6849" type="31" />
+            <attribute id="LayerColor" value="0" type="4" />
+            <attribute id="Name" value="SmallHouseWithInter" type="23" />
+        </node>
+    </region>
+</save>

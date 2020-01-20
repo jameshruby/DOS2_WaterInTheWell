@@ -1,0 +1,240 @@
+Before our doors Else spirit stands. She wants a water.
+We cant get any answers outta her.
+
+From her hands, the tomb-sign (flowers/whatever) falls down.
+We are taking a tombsign, (TASK "put a tombsign back")
+ElseSpirit starts to go. We need to follow her. It stops at the crossroad.
+Its our way now.We see several points on the map (they represent our memories.
+Each memory should lead us closer to the  tomb, but theres should be multiple 
+memories, which should be possible to complete in different order (?!)
+Else spirit is thirsty on the way. Each memory makes us cry, but, since Else 
+is passing away from thirst we are using our tears to "fuel" her on the way.
+When we got to he tombstone, ELse passes for last time, she cries that she needs more water.
+
+We can go tru the cave and we get to the puzzle.(!?) which will open doors that will lead us to the mansion.
+or we can fight our way thru the main entrance.
+
+We find out that mainBoss is too strong, and the only way how to win the battle 
+
+
+Her Ghost could also phase in/out and bassed on the time we completed memories.
+Possibility is if we dont give her water she goes mad and wants to kill/us kills us
+we are dead.
+
+----------
+
+
+INT HOME
+Evening 
+We are hearing knocks on the door.
+Before the doors is a ....
+
+ENTITY
+Do you have little bit of watter ?
+
+PLAYER
+(Give water)
+
+
+
+
+INT HOME 
+We are starting at home, bag prepared at the table
+We have several dialogue options
+We start in the dialogue.
+
+M
+I found this letter before our doors
+(gives letter)
+I don't know what it means, but maybe you should finally visit her.
+Its been a year already.
+
+LETTER
+Your love is waiting, its hear-shaped leaves longing for the sun,
+stonky fading, wating for the water.
+
+-------------------------------------------------------------------------
+
+EXT broken shack
+NARRATOR
+Fireplace
+One cold eavenng, you've made fire and grilled. Else got burrned a little.
+Why someimes love hurts exactly like my arm now ?
+
+
+Sitting near the water, admiring the sunset, darkness of her raven hairs, marně battling the
+sunlight (paprsek). Sun exposed the scars on the backside of her hand. 
+You grab her gently by her hand, asking "What happened to you ? 
+She smiles
+You will understand one day
+
+Field of pampelisek
+You've made a dandelion crown, for Else, she was wearing it, until it fallen off.
+They are all white now, like old scars that left after the injury.
+
+
+
+
+There was a tune when you fought over who will let the other first over the Bridge, and who loves more.
+Good times.
+
+
+That song which whenewer played, one of you cries and one of you laughs, when different memories flooded out,
+on the suraface.
+
+Her skin was like *letokruhy*. He handed you a knife one day.
+What for ? You asked.
+I need you to cut !
+Why, I would do such a thing ?
+You will make me scar, now, so you would remember to never scar me again.
+Else...This...this is wrong.
+Who are you to say what is right and whats wrong, the pain of the body is sweet song against the pain of the mind.
+
+
+
+
+
+You fought. 
+
+
+
+
+EXT GRAVYYARD
+We are at the GravyYard visiting our dead love.
+We came her to say goodbye to her.
+
+
+I know, I know. I should let it go. But I just can't. One day, I will figure it all out, and than I will be free."
+
+NARRATOR
+"You are staring at the tomb, and you don't know what to say.<br><br>"
+
+PLAYER
+Eh..HI
+
+NARRATOR
+our throat is scretching. How to adress somebody who is dead ?"
+
+PLAEYR
+I still can't believe you are dead. We only found little bit of blood. But not the body. Never your body
+
+
+PLAYER
+Hello.  I really need to tell you something. I'm sorry for everithing bad I've sad. I wish we would have more<br>time together."
+
+
+
+NARRATOR
+Before the gate sits small boy, visibly shaking with fear. 
+His eyes are firmly closed and hands locked together. With shaking voice he whispers the question...
+
+...
+NARRATOR
+The boy grabs you by your hair before you get a chance to protest, and starts whispering.
+Your soul feels uplifted, flying to new worlds that opened before your eyes.
+
+We got our spirit vision
+
+
+*We used SpiritVision*
+
+KITTYKATIE
+Hello, do you have some water, please ? I'm not even asking for freshy, tasty milk. I'm feeling so thirsty, like I'v been in the desert all day.
+Wait, I'm at the desert. 2 by 2 meters of it. Silly me. I just need to get out of there.
+But I need that water...please.
+
+
+VS you need to kill my old owner
+
+= Kittens in the circle playing silentPost - wants to kill us.
+
+
+After the conversation, we got the twig to find more watter => we will find well with a body, and the ring ?! some connection to Brother/Father
+
+
+--------------------------------------------------------------------------
+In the cemetary, theres something like: 
+
+
+KITTY
+Thanks for the water.
+Now, theres something else I need. I know something happened to me.
+
+
+PLAYER 
+I found old cellar key there
+
+Kitty
+I need you to take THIS, i just remembered something.
+I have feeling its somehow connected to the cellar
+(cat part/item found)
+
+
+We found cellar key from mansion
+
+FATHER GREGORY
+I hate bones, I see them all the time.
+
+
+PLAYER
+Does this mean anything to you ?
+
+
+
+FATHER GREGORY
+Wh..Wh..Where you found it ?
+
+PLAYER
+I was looking for the well. I found it.
+With SOMETHING inside.
+
+
+PLAYER 
+Did you killed her ?
+    FATHER GREGORY
+    I...I did. She..she struggled. (TODO - could this be part of the gameplay ?)
+    I had to use my new spell, and turn her into cat to get rid of her. It was the only option.
+
+   Than I could finish her off. She sad
+
+
+
+   ====
+
+   Water in the well
+
+I need to ahower the flowers at the grave
+
+Hmm, water from the flowers is gone, I don't belive, that flowers
+are so thirsty...Something fishy going on there....
+
+I can se the spirits now...maybe the boy is right about ghosts....
+
+I found that this teritorial spirit cat drank the water and demands more.
+Maybe she will just wanish if i will help her..
+
+
+-----------------------------------------
+
+         
+ Hello, do you have some water, please ? I'm not even asking for freshy, tasty milk.
+  I'm feeling so thirsty, like I'v been in the desert all day.<br>Wait, 
+  I'm at the desert. 2 by 2 meters of it. Silly me. I just need to get out of there.<br>But I need that water...please                                   
+ I need that water...please                                  
+ I've found water. Hope its not too late                                
+ Thanks you, my Man. Can I call you that ? I would call you master, but...y'a know, I have some cat-respect still        
+ Anyway, You can use this twig, if you need to find a watersource                               
+ Shhhh, meow. Tell me, what I wanna hear, my patience running out soon my dear                                  
+ Shhhh, meow. Don't let me die by thirst, b'cause, you could die worst                                  
+ Alright, alright, I'm on my way                               
+ Thank you....my...m..m..my MASTER                               
+ I'm sorry, I've got different things to do                             
+ Alright, WIl bring some water                               
+
+
+
+
+ TODO, we need to get tru the deathfog to the other side,to bargian for the soul ?!
+  
+FIND souljars
+maybe we need to kill somebody inocennt to trade his soul for hers
